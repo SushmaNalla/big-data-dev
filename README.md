@@ -19,4 +19,4 @@ I would like to work as a Software Developer.
 - [My LinkedIn profile](http://linkedin.com/in/sushma-nalla-b379a0126)
 
 ## Image
-![My picture](Sushma.jpeg)
+<img src="https://github.com/SushmaNalla/big-data-dev/blob/main/Sushma.jpeg" width="250">
